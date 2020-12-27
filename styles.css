@@ -1,0 +1,191 @@
+body {
+   margin: 0;
+}
+#html {
+    height: 100%;
+    min-height: 100%;
+}
+
+#navbar-left {
+    display: inline-block;
+    margin: 8px 10px 10px 10px;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+#navbar-right {
+    float: right;
+    margin: 8px 10px 10px 0px;
+    padding-right: 15px;
+    padding-top: 15px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+#about {
+    color: rgba(0,0,0,0.87);
+}
+#store {
+    color: rgba(0,0,0,0.87);
+    padding-left: 10px;
+}
+#gmail {
+    color: rgba(0,0,0,0.87);
+    padding-right: 10px;
+}
+#images {
+    color: rgba(0,0,0,0.87);
+    padding-right: 10px;
+}
+#apps {
+    color: rgba(0,0,0,0.87);
+    padding-right: 10px;
+}
+#signin {
+    color: rgba(0,0,0,0.87);
+    padding-right: 10px;
+    color: white;
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background-color: #4285f4;
+    border-radius: 2px;
+    padding: 5px 8px 8px 5px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+#main {
+    text-align: center;
+}
+#logo {
+    display: flex;
+    justify-content: center;
+    padding:60px 0px 25px 220px;
+    
+}
+#search {
+    width: 420px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 16px;
+    font-family: arial,sans-serif;
+    padding-left: 8px;
+    outline: none;
+    border-color:rgb(233, 232, 232);
+    
+    
+}
+input:hover {
+    text-decoration: none;
+    box-shadow: 4px 4px 6px rgb(206, 206, 206);
+    
+}
+#buttons {
+    padding: 30px 0px 0px 0px;
+}
+#googlesearch {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    outline-color: #4285f4;
+}
+#imfeelinglucky {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    outline-color: #4285f4;
+}
+#googlesearch:hover {
+    box-shadow: 2px 2px 3px rgb(206, 206, 206); 
+}
+#imfeelinglucky:hover {
+    box-shadow: 2px 2px 3px rgb(206, 206, 206); 
+}
+#google-text {
+    font-size: small;
+    font-family: arial,sans-serif;
+    text-decoration: none;
+}
+#footer {
+    position: absolute;
+    bottom: 0px;
+    background: #f2f2f2;
+    line-height: 30px;
+    border-top: 1px solid #dadce0;
+    width: 100%;
+    padding-top: 10px;
+
+}
+#footer-left {
+float: left;
+}
+#footer-right {
+float: right;
+}
+#advertising {
+    color: #70757a;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding-left: 27px;
+}
+#business {
+    color: #70757a;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding-left: 27px;
+}
+#hsw {
+    color: #70757a;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding-left: 27px;
+}
+#privacy {
+    color: #70757a;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding-right: 27px;
+}
+#terms {
+    color: #70757a;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding-right: 27px;
+}
+#settings {
+    color: #70757a;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding-right: 27px;
+}
